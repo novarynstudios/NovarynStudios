@@ -4,7 +4,7 @@
 
 ### *Where Imagination Meets Innovation*
 
-![Typing SVG](https://raw.githubusercontent.com/novaryn-studios/novaryn-studios/main/assets/typing.svg)
+![Typing SVG]([https://raw.githubusercontent.com/novaryn-studios/novaryn-studios/main/assets/typing.svg](https://raw.githubusercontent.com/novarynstudios/NovarynStudios/e92454c1d754c931a3b3e354fd4324d11232a448/main/assets/typing.svg))
 
 ---
 
