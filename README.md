@@ -108,7 +108,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novaryn-studios&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novarynstudios&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novaryn-studios&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
 
