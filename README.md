@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgur.com/a/AzydUrm"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1459165851646165177/1512463706422771722/Novaryn_Studios_Black2.1.png?ex=6a242f17&is=6a22dd97&hm=1063a5ca789ca7f283273e2a78a8df318bb734faf9b23de2e929aa448a42ae0a&"  />
 </div>
 
 ###
